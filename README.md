@@ -1,4 +1,4 @@
-. Tạo file .env:
+**. Tạo file .env:**
 
 DB_CONNECTION=mysql
 
@@ -12,7 +12,7 @@ DB_USERNAME=root
 
 DB_PASSWORD=
 
-. Sau khi config:
+**. Sau khi config:**
 
 php artisan config:cache
 
