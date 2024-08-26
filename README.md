@@ -13,6 +13,7 @@ DB_USERNAME=root
 DB_PASSWORD=
 
 . Sau khi config:
+
 php artisan config:cache
 
 php artisan config:clear
